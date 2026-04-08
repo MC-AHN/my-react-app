@@ -57,11 +57,11 @@ function App() {
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
           </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
+          <h2>Connect with Me</h2>
+          <p>Join the Rustel Company</p>
           <ul>
             <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
+              <a href="https://github.com/MC-AHN" target="_blank">
                 <svg
                   className="button-icon"
                   role="presentation"
